@@ -37,4 +37,4 @@ class MyClass {
 
 #### English: ####
 
-A2+
+*A2+*
