@@ -33,7 +33,7 @@ class MyClass {
 
 #### Education: ####
 
-Minsk State Architecture and Civil Engineering College (2005-2009, construction technician), Belarusian national technical university (2009-2011, civil engineer).
+**Minsk State Architecture and Civil Engineering College** (2005-2009, construction technician), **Belarusian national technical university** (2009-2011, civil engineer).
 
 #### English: ####
 
